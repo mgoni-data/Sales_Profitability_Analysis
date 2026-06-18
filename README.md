@@ -6,5 +6,5 @@ End-to-end retail sales and profitability analysis using Excel, MySQL, and Table
 
 Markdown
 ## Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
